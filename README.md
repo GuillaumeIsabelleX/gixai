@@ -1,4 +1,4 @@
-# GIXAI - GIX Artificial Intelligence #
+# GIXAI - GIX Digital Intelligence #
 
 ## GOAL ##
 * Expose basic feature enabling digital intelligence.
